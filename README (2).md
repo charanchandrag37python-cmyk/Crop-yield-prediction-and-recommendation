@@ -81,7 +81,7 @@ During the internship, I worked on real-time datasets and projects, which improv
 </p>
 
 <p>
-  <a href="https://github.com/sure-trust/G-CHARAN-CHANDRA-g37-ai-ml/blob/9767555fe2d11b2b4362da67e4f3220546d48d6e/Course%20report/SURE%20Trust%20project%20%20report.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/charanchandrag37python-cmyk/Crop-yield-prediction-and-recommendation/edit/main/README%20(2).md"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
